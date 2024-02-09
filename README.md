@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./public/screenshot02.png" width=300>
+  ☑️
   <br/>
   React Todo App
 </h1>
