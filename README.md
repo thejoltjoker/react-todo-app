@@ -1,26 +1,49 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/dygnPVIl)
-# Todos
+<h1 align="center">
+  <img src="./public/screenshot02.png" width=300>
+  <br/>
+  React Todo App
+</h1>
 
-En inlämningsuppgift för FSU23D. I denna uppgift skall ni alltså bygga en todo-lista i react. Ni har fått detta projekt som mall så att alla har någonting att utgå ifrån. Men, ingenting mer än själva projektet har gjorts. Nu skall ni, genom att använda alla koncept vi har pratat om hittills i kursen, skapa en todo-lista.
+<h4 align="center">A simple todo-list application built with React</h4>
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
 
-## Krav för G
+## Key Features
 
-- Skapa en hårdkodad lista med egna todos (ni kan välja vilka todos som helst)
-- Presentera listan på skärmen med kontroll, kanske med hjälp av en ul/li
-- Ni skall kunna ta bort en todo ur listan
-- Ni behöver använda minst en komponent
-- Använda localStorage för att spara er lista. Jag vill inte att allting börjar om från början varje siduppdatering :)
-- Bra struktur på er kod. Detta betyder självförklarande variabelnamn och funktionsnamn samt inga kommentarer.
+- Hardcoded list with custom todos
+- Ability to remove todos from the list
+- Utilizes components for better structure
+- Uses localStorage to save and restore the list between page updates
 
-## Krav för VG
+## How To Use
 
-- Samtliga punkter för G
-- Ni använder er av minst tre komponenter
-- Ni använder er av Lifting State Up
-- Ni skall kunna skriva in egna todos via ett formulär
-- Ni skall visa även klara händelser och göra så att de kan bli "oklara" igen
-- Ni skall kunna sortera er lista på något sätt, hur och på vad är upp till er
+### Installation
 
-## Förslag
+1. Clone the repository: `git clone https://github.com/thejoltjoker/react-todo-app.git`
+2. Navigate to the project directory: `cd react-todo-app`
+3. Install dependencies: `npm install`
+4. Start the application: `npm run dev`
 
-Mitt förslag är att ni funderar över vilket betyg ni vill uppnå och börjar planera för de komponenter som behövs för just det. Fokusera på funktionalitet framför utseende. Såklart att ni får styla hur mycket ni vill, men det är funktionalitet jag kommer att bedöma i denna uppgift. 
+## Credits
+
+- Inspired by Todoist
+- Inspired by Reminders from Apple
+
+## Related
+
+- [FSU23D - Frontend Development](https://github.com/thejoltjoker/FSU23D-frameworks) - Welcome to my GitHub repository for the frameworks system development course during my education as a full-stack developer at Medieinstitutet, FSU23D.
+
+## You may also like...
+
+- [Vad sa Maria från Teams egentligen?](https://github.com/thejoltjoker/vad-sa-maria-fran-teams-egentligen) - A mock chat app to determine the similarity between two strings.
+
+- [React webshop frontend](https://github.com/thejoltjoker/react-webshop-frontend) - A simple webshop to practice React.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
