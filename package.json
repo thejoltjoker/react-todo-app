@@ -8,7 +8,7 @@
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "test:unit": "vitest --watch --root src/"
+    "test:unit": "vitest --root src/"
   },
   "dependencies": {
     "date-fns": "^3.3.1",
